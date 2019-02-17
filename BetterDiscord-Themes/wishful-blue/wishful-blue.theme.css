@@ -7,7 +7,7 @@
 
 :root {
 	/* background URL */
-	--background-image: url(https://images.alphacoders.com/596/596630.jpg) center/cover no-repeat;
+	--background-image: url(https://cdn.discordapp.com/attachments/546277803881005066/546525846710779904/unknown.png) center/cover no-repeat;
 	/* Guild and Top bar transparency */
 	--transparency-1: linear-gradient(to left, rgba(0,0,0,0.85), rgba(0,0,0,0.75));
 	/* transparency for channels and private channels */
